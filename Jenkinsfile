@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Hello') {
          steps {
-            echo 'Welcome to DevOps'
+            echo 'Welcome to DevOps .'
          }
       }
    }
